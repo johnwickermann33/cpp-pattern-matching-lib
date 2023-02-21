@@ -1,5 +1,5 @@
-#ifndef MPARK_PATTERNS_HPP
-#define MPARK_PATTERNS_HPP
+#ifndef CPML_PATTERNS
+#define CPML_PATTERNS
 
 #include "patterns/match.hpp"
 
@@ -10,3 +10,5 @@
 #include "patterns/regex.hpp"
 #include "patterns/vis.hpp"
 #include "patterns/when.hpp"
+
+#endif
